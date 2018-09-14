@@ -125,7 +125,7 @@ $(document).ready(function() {
     $('.testimonial_carousel').slick({
         dots: true,
         autoplay: true,
-        autoplaySpeed: 2000,
+        autoplaySpeed: 5000,
         arrows: false
     });
 

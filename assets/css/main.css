@@ -1780,6 +1780,19 @@ img {
   background-repeat: no-repeat;
 }
 
+#sobre{
+  color: #000;
+}
+
+#noMayus{
+  font-size: 0.8em;
+  color: #000;
+}
+
+#imagenAcerca{
+  border-radius: 350px;
+}
+
 /*  ----------------------------------------------------
 4 buttons
 -------------------------------------------------------- */
@@ -2143,6 +2156,7 @@ img {
 }
 .testimonial_carousel p {
   font-style: italic;
+  color: #000000;
 }
 .testimonial_carousel .testimonial_author {
   display: inline-block;
